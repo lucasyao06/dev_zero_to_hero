@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="443" viewBox="0 0 900 443">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="0" y="1" width="315" height="49" fill="#eceff2" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="600" fill="#24292f">端口</text>
+<rect x="315" y="1" width="585" height="49" fill="#eceff2" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="600" fill="#24292f">常见服务</text>
+<rect x="0" y="50" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="80" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">22</text>
+<rect x="315" y="50" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="80" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">SSH</text>
+<rect x="0" y="99" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="129" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">53</text>
+<rect x="315" y="99" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="129" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">DNS</text>
+<rect x="0" y="148" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="178" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">80</text>
+<rect x="315" y="148" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="178" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">HTTP</text>
+<rect x="0" y="197" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="227" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">443</text>
+<rect x="315" y="197" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="227" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">HTTPS</text>
+<rect x="0" y="246" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="276" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">3306</text>
+<rect x="315" y="246" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="276" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">MySQL</text>
+<rect x="0" y="295" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="325" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">5432</text>
+<rect x="315" y="295" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="325" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">PostgreSQL</text>
+<rect x="0" y="344" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="374" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">6379</text>
+<rect x="315" y="344" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="374" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">Redis</text>
+<rect x="0" y="393" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="423" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">8000、8080</text>
+<rect x="315" y="393" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="423" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">开发阶段常用的 Web 服务端口</text>
+</svg>
