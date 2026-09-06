@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="664" viewBox="0 0 900 664">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="0" y="1" width="342" height="49" fill="#eceff2" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="600" fill="#24292f">现象</text>
+<rect x="342" y="1" width="558" height="49" fill="#eceff2" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="600" fill="#24292f">可能原因</text>
+<rect x="0" y="50" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="80" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">域名无法解析</text>
+<rect x="342" y="50" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="80" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">域名拼写错误、DNS 故障、域名不存在</text>
+<rect x="0" y="99" width="342" height="74" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<rect x="8" y="122.0" width="236" height="28" rx="4" fill="#f1f3f5" stroke="#d9dde3"/>
+<text x="12" y="141" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">Could not resolve host</text>
+<rect x="342" y="99" width="558" height="74" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="129" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">DNS 解析失败</text>
+<rect x="0" y="173" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<rect x="8" y="183.5" width="196" height="28" rx="4" fill="#f1f3f5" stroke="#d9dde3"/>
+<text x="12" y="203" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">Connection refused</text>
+<rect x="342" y="173" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="203" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">服务未启动、端口错误、服务未监听或连接被主动拒绝</text>
+<rect x="0" y="222" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<rect x="8" y="232.5" width="216" height="28" rx="4" fill="#f1f3f5" stroke="#d9dde3"/>
+<text x="12" y="252" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">Connection timed out</text>
+<rect x="342" y="222" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="252" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">防火墙丢弃、路由问题、目标未响应</text>
+<rect x="0" y="271" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="301" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">本机可以访问，其他设备无法访问</text>
+<rect x="342" y="271" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="301" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">服务只监听 </text>
+<rect x="446" y="281.5" width="104" height="28" rx="4" fill="#f1f3f5" stroke="#d9dde3"/>
+<text x="450" y="301" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">127.0.0.1</text>
+<text x="554" y="301" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">、系统防火墙阻止访问</text>
+<rect x="0" y="320" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="350" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">局域网可以访问，互联网无法访问</text>
+<rect x="342" y="320" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="350" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">没有公网入口、缺少端口转发、安全组或防火墙未放行</text>
+<rect x="0" y="369" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="399" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">浏览器能打开网页，</text>
+<rect x="176" y="379.5" width="56" height="28" rx="4" fill="#f1f3f5" stroke="#d9dde3"/>
+<text x="180" y="399" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">ping</text>
+<text x="238" y="399" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">失败</text>
+<rect x="342" y="369" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="399" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">目标服务器屏蔽 ICMP，HTTP 服务仍然可用</text>
+<rect x="0" y="418" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="448" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">返回 404</text>
+<rect x="342" y="418" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="448" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">服务已经收到请求，请求路径或资源不存在</text>
+<rect x="0" y="467" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="497" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">返回 502</text>
+<rect x="342" y="467" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="497" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">代理服务器无法连接后端服务</text>
+<rect x="0" y="516" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="546" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">SSH 提示超时</text>
+<rect x="342" y="516" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="546" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">IP、路由、端口、防火墙或安全组存在问题</text>
+<rect x="0" y="565" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="595" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">SSH 提示权限拒绝</text>
+<rect x="342" y="565" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="595" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">用户名、密码、密钥或服务器认证配置存在问题</text>
+<rect x="0" y="614" width="342" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="644" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">访问远程服务时填写 </text>
+<rect x="196" y="624.5" width="98" height="28" rx="4" fill="#f1f3f5" stroke="#d9dde3"/>
+<text x="200" y="644" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">localhost</text>
+<rect x="342" y="614" width="558" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="354" y="644" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">实际访问了当前设备自身</text>
+</svg>
