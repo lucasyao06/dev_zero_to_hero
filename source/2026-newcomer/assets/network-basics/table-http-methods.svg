@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="296" viewBox="0 0 900 296">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="0" y="1" width="315" height="49" fill="#eceff2" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="600" fill="#24292f">方法</text>
+<rect x="315" y="1" width="585" height="49" fill="#eceff2" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="31" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="600" fill="#24292f">常见含义</text>
+<rect x="0" y="50" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="80" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">GET</text>
+<rect x="315" y="50" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="80" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">获取资源</text>
+<rect x="0" y="99" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="129" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">POST</text>
+<rect x="315" y="99" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="129" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">提交数据或创建资源</text>
+<rect x="0" y="148" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="178" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">PUT</text>
+<rect x="315" y="148" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="178" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">整体更新或替换资源</text>
+<rect x="0" y="197" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="227" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">PATCH</text>
+<rect x="315" y="197" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="227" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">更新资源的一部分</text>
+<rect x="0" y="246" width="315" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="12" y="276" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">DELETE</text>
+<rect x="315" y="246" width="585" height="49" fill="#ffffff" stroke="#d5d9df" stroke-width="1"/>
+<text x="327" y="276" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif" font-size="18" font-weight="400" fill="#24292f">删除资源</text>
+</svg>
